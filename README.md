@@ -79,3 +79,23 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Other Magento 2 Extensions by MageComp
 
+[Magento 2 Resource Hints](https://magecomp.com/magento-2-resource-hints.html)
+
+[Magento 2 Sticky Add To Cart](https://magecomp.com/magento-2-sticky-add-to-cart.html)
+
+[Magento 2 Cash on Delivery Extra Fee](https://magecomp.com/magento-2-cash-on-delivery-extra-fee.html)
+
+[Magento 2 Coupon Code Link Extension](https://magecomp.com/magento-2-coupon-code-link.html)
+
+[Magento 2 Custom Checkout Fields](https://magecomp.com/magento-2-custom-checkout-fields.html)
+
+[Magento 2 Quick Order Extension](https://magecomp.com/magento-2-quick-order.html)
+
+[Magento 2 Category Import Export](https://magecomp.com/magento-2-category-import.html)
+
+[Magento 2 Out of Stock at Last](https://magecomp.com/magento-2-out-of-stock-at-last.html)
+
+[Magento 2 Quick Contact Form](https://magecomp.com/magento-2-quick-contact-form.html)
+
+[Magento 2 Mobile App Builder](https://mobileapp.magecomp.com/)
+
