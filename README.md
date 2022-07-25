@@ -99,3 +99,24 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 [Magento 2 Mobile App Builder](https://mobileapp.magecomp.com/)
 
+## Magento Marketplace Extension by MageComp
+
+[Product Surcharge](https://marketplace.magento.com/magecomp-module-productsurcharge.html)
+
+[Save Cart](https://marketplace.magento.com/magecomp-module-savecart.html)
+
+[Surcharge](https://marketplace.magento.com/magecomp-module-surcharge.html)
+
+[Recent Sales Notification](https://marketplace.magento.com/magecomp-module-recentsalesnotification.html)
+
+[WhatsApp Share Cart](https://marketplace.magento.com/magecomp-module-whatsappsharecart.html)
+
+[Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
+
+[Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
+
+[Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
+
+[Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
+
+[Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
