@@ -1,13 +1,35 @@
-# [Magento 2 SMS Notification FREE](https://magecomp.com/magento-2-sms-notification-free.html) by MageComp
+# Magento 2 SMS Notification Extension [FREE] 
+![24](https://github.com/magecomp/magento-2-sms-notification-free/assets/8856845/43e629bf-5c00-469c-a5f5-bd6e18345800)
 
 By using Magento 2 SMS Notification Extension by MageComp, admins can send SMS notifications to customers about their order status.
 
 <a href="https://magecomp.com/magento-2-sms-notification-free.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
-## Requirements
-* Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+# Contribute & Explore Your Coding Skills
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Mobile OTP Login module. Be ready to hit your keyboard keys & get listed today!
 
-## Main Features
+<a href="https://github.com/magecomp/magento-2-sms-notification-free/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento-2-sms-notification-free" />
+</a>
+
+# What About the Pricing?
+
+* It's completely FREE OF CHARGE.
+
+# Compatibility with Magento Versions
+
+* Magento 2.2.0 - 2.4.X (CE, EE, ECE)
+
+# Installing Via Composer
+  
+<img src="https://i.ibb.co/NjGRFCt/composer.png">
+Specify project dependencies using a JSON file & leave everything to Composer.
+
+# Compatible with Hyvä 
+
+![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
+
+# Features
 
 * A supported service provider is integrated with the SMS Gateway API.
 
@@ -17,7 +39,7 @@ By using Magento 2 SMS Notification Extension by MageComp, admins can send SMS n
 
 * Enhance the customer experience at the shop
 
-## Benifits
+# Benifits
 
 * **1. Notify Your Customer**
 
@@ -31,9 +53,9 @@ Helps you to enhance the store experience by notifying a customer.
 
 The SMS Gateway API's integration with approved service providers.
 
-## Screenshots
+## Configuration
 
-**1. Configuration**
+* Enable or Disable the extension from here. Set it as enabled to use the features of the SMS Notification extension.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1.configuration_1.webp)
 
@@ -49,33 +71,25 @@ The SMS Gateway API's integration with approved service providers.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/_/4.shipment_notification_settings_new12.webp)
 
-## Change Log
+# Support
 
-**Version 1.0.3**
+Write to us at our [Support Portal](https://magecomp.com/support/) for queries about our Magento 2 extensions or services.
 
-Compatible with the latest Magento 2.4.4 version
+# Contact Us
+**MageComp**
 
-**Version 1.0.2**
+**Head Quarters:** 304-305, Eva Surbhi Complex, Waghawadi Road, Bhavnagar, Gujarat (India)
 
-Compatible with Magento 2.3.3 Latest Magento version
+**Branch:** 1212, Shilp Zaveri, Shyamal Cross Road, Satellite, Ahmedabad, Gujarat, India.
 
-**Version 1.0.1**
+**Representative office:** 9 Sunbird Crescent, Scarborough M1V3M6 (Canada)
 
-Compatible with Magento 2.3
+**Phone:** +91 79902 50277
 
-Minor improvements
+**Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
-## Support
+<img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
 
-In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
-
-## Contact us
-
-In case you would want to contact us, reach out to us at:
-
-Phone: +917990250277
-
-Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Other Magento 2 Extensions by MageComp
 
