@@ -6,7 +6,7 @@ By using Magento 2 SMS Notification Extension by MageComp, admins can send SMS n
 <a href="https://magecomp.com/magento-2-sms-notification-free.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
 # Contribute & Explore Your Coding Skills
-We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Mobile OTP Login module. Be ready to hit your keyboard keys & get listed today!
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 SMS Notification module. Be ready to hit your keyboard keys & get listed today!
 
 <a href="https://github.com/magecomp/magento-2-sms-notification-free/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=magecomp/magento-2-sms-notification-free" />
